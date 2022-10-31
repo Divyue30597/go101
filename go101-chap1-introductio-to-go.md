@@ -6,7 +6,7 @@ Go is a compiled and static typed programming language.
 
 - built in concurrent programming support
   - goroutines and starting a new goroutine
-  - `channels` and `select` mechanisms to do synchroniztions between goroutines
+  - `channels` and `select` mechanisms to do synchronizations between goroutines
 - polymorphism through interfaces.
 - pointers
 - function closures
@@ -21,7 +21,7 @@ Go is a compiled and static typed programming language.
 
 ## Some more highlights
 
-- Syntax is simple, clean
+- Syntax is simple and clean
 - Great set of standard code packages.
 - Active community
 
